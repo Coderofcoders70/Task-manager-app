@@ -2,6 +2,8 @@ Task Management System
 
 A robust, full-stack Task Management application built with a primary focus on a secure, modular Backend API and a supportive, responsive Frontend UI. This project implements JWT Authentication, Role-Based Access Control (RBAC) , and full CRUD operations for managing tasks.
 
+Live Link:- https://task-manager-app-nu-bay.vercel.app/
+
 🛠️ Tech Stack
 
 1. Backend (Primary Focus) 
