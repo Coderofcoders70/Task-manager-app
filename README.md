@@ -63,11 +63,12 @@ To prepare this system for high-traffic production environments, the following s
 
 npm install
 
-# Create a .env file with: PORT, MONGO_URI, JWT_SECRET
-
 npm run dev
+
 API Documentation: Visit http://localhost:5000/api-docs.
 
 2. Frontend SetupBashcd frontend
+
 npm install
+
 npm run dev
